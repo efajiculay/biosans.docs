@@ -47,8 +47,8 @@ Module Contents
 
    
 
-.. py:data:: html_static_path
-   :annotation: = ['_static']
+.. py:data:: htmlstatic_path
+   :annotation: = ['static']
 
    
 
